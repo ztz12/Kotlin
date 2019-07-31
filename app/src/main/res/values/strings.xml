@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">KotlinDemo</string>
+    <string name="click">点击</string>
+    <string name="reading_title">阅读宝</string>
+    <string name="reading_tip">小题数共X个，已答对Y个(x>=y)</string>
+    <string name="reading_knowledge">知识点共A个，已掌握B%</string>
+    <string name="reading_content">每次从题库中优先选择熟练度较低的试题进行分组智能练习，并动态调整熟练度。</string>
+    <string name="practice">马上练习</string>
+    <string name="number">序号</string>
+    <string name="essay">短文</string>
+    <string name="title">Raynor Winn and her husband</string>
+    <string name="content"> Raynor Winn and her husband Moth became homeless due to their wrong investment. Their savings had been used up to pay lawyers\' fees. To make matters worse, Moth was diagnosed  with a serious disease. There was no cure, only pain relief.
+      Failing to find any other way out, they decided to make a walking journey, as they caught sight of an old hikers\' guide
+      This was a long journey of unaccustomed hardship and surprising recovery. When leaving home, Raynor and Moth had just £320 in the bank. They planned to keep the budget low by living on boiled noodles, with the occasional hamburger shop treat.
+      Wild camping is illegal in England. To avoid being caught, the Winns had to get their tent up late and packed it away early in the morning. The Winns soon discovered that daily hiking in their 50s is a lot harder than they remember it was in their 20s.</string>
+
+    <string name="cancel">取消</string>
+    <string name="titleTime">请选择时间</string>
+    <string name="confirm">确定</string>
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="day">日</string>
+    <string name="hour">时</string>
+    <string name="minute">分</string>
+
+    <string name="select_date">选择日期</string>
+    <string name="current_date">当前日期</string>
+    <string name="select_time">选择时间</string>
+    <string name="current_time">当前时间</string>
+</resources>

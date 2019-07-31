@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.TileModelActivity">
+    <Button
+        android:id="@+id/btn_clamp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="CLAMP" />
+
+    <Button
+        android:id="@+id/btn_mirror"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="MIRROR" />
+
+    <Button
+        android:id="@+id/btn_repeat"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="REPEAT" />
+    <com.wanandroid.zhangtianzhu.viewslefdemo.widget.TileModelView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/tileModel"/>
+</LinearLayout>

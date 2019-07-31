@@ -1,0 +1,430 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+MERGED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-24:12
+MERGED from [:xfermodedemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/xfermodedemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-18:12
+MERGED from [:animatorchange] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/animatorchange/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:base] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:design:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/75681e654bde102039bf02aef292724a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.alibaba:arouter-api:1.3.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/arouter-api-1.3.1.aar/bfda254be4bd8f1d2303bfdfee6713df/AndroidManifest.xml:2:1-10:12
+MERGED from [org.jetbrains.anko:anko:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-0.10.7.aar/934d8bf63e7c7313af31bfec391a1f03/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-0.10.7.aar/7b906c7887ddf7c8ddde57e4d4d1be6a/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-support-v4-0.10.7.aar/e1a95ca3321ebc6c478f6589c767d583/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-coroutines-0.10.7.aar/b051a611a8087076fd36293fa0413764/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-commons-0.10.7.aar/b4bd9de8a1752fca2731760ca8429fc3/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-support-v4-commons-0.10.7.aar/a294f7cd042521ee6422ee6c7932c484/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/supportV4-base-0.10.7.aar/df5c49ff36a2f844018319e3adbef7db/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2124592739f3944c699619d217cf8824/AndroidManifest.xml:17:1-22:12
+MERGED from [com.applandeo:material-calendar-view:1.5.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/material-calendar-view-1.5.1.aar/210f6105c718b5de8aa0ee543326e579/AndroidManifest.xml:2:1-17:12
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/appcompatV7-base-0.10.7.aar/1677c3864f85e47379ea1756832c3d6e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2ad5873f3b43a3d70bed178d2f12cdc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/c097be8906608577b61e512beb737b2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/385452be3cde4b979ce291ac5fd128d4/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.persistence.room:rxjava2:1.1.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/rxjava2-1.1.0.aar/072ae522cb2d11789fb118f7cdec7c45/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/59ccca0acc8d59fc30167c378f58ad0a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.paging:runtime:1.0.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e6eeea7793bf392025c368cc2f94f7d2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.paging:rxjava2:1.0.0-rc1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0-rc1.aar/19ccfe271096ffb6946de57a354a3780/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7a98190ca2bdaaae15206aa997002373/AndroidManifest.xml:17:1-30:12
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.7.aar/bb0bce04f67f4ff3e141cc87e2069532/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sdk27-coroutines-0.10.7.aar/b6adb1756b9928f73dc10519406f6b54/AndroidManifest.xml:2:1-13:12
+MERGED from [com.liulishuo.filedownloader:library:1.7.6] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/library-1.7.6.aar/99bd66eb686ef8fa015827a7e606706a/AndroidManifest.xml:2:1-18:12
+MERGED from [cn.jzvd:jiaozivideoplayer:6.4.3] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/jiaozivideoplayer-6.4.3.aar/baaca33a5468176fcf5d67c8151f3d0f/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.7.aar/80f93c549600e0f12db4674ed580b58f/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sdk27-0.10.7.aar/a23a33f5524d96810d7aad0dae72605f/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/fd5205925f8d01259e46e2d0e74c6a41/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/sqlite-base-0.10.7.aar/6be5446b588925936cd69ce174acd41a/AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:platform-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/platform-base-0.10.7.aar/1607befbeedd5bc1ea18ba2baeddf26d/AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:commons-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.7.aar/1bbed8f03c75b40b92a908fc79d506ae/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:customtabs:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/41a07827e256f94a64435e812fb7d720/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/979f1b3b4c567fac9b8613be5d503e73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/651b20e83a150a3cfa46de9b12a84757/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5e5c42cc74f6cd96394377494fcfb1a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/162fcc11f2957b8e9561fb49758794aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b48b5696ee6bc0134a67dbd244b405c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1e09f96eb3c6227906b0e0dc22c88594/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/2da39398a1d8cb8e0ce2393425229986/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9ea3a2a9e3ffb0a7846c2eb33dd05718/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8dc12ad634bab5a48fe6a23df4e63cfd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/2b34e1b7d125219a9116f91d6c4936a6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/4a1296e5fd66e293f0c913d83a5576f7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e9c62b3ea09b213282408f8cd53a05c3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c7cbdf634281c05853fa4009d41435f2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7a6f40e1aedd77a4051fca0341911dc3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e1756bf367665e36c84b51f30bb0f89e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f03b2023c7b4af6937c20ca5ca7eac18/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:7:22-77
+application
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:9:5-50:19
+MERGED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-22:19
+MERGED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-22:19
+MERGED from [:xfermodedemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/xfermodedemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-16:19
+MERGED from [:xfermodedemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/xfermodedemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-16:19
+MERGED from [:animatorchange] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/animatorchange/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:animatorchange] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/animatorchange/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:base] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-13:19
+MERGED from [:base] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-13:19
+MERGED from [org.jetbrains.anko:anko:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-0.10.7.aar/934d8bf63e7c7313af31bfec391a1f03/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-0.10.7.aar/934d8bf63e7c7313af31bfec391a1f03/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-0.10.7.aar/7b906c7887ddf7c8ddde57e4d4d1be6a/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-0.10.7.aar/7b906c7887ddf7c8ddde57e4d4d1be6a/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-support-v4-0.10.7.aar/e1a95ca3321ebc6c478f6589c767d583/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-support-v4-0.10.7.aar/e1a95ca3321ebc6c478f6589c767d583/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-coroutines-0.10.7.aar/b051a611a8087076fd36293fa0413764/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-coroutines-0.10.7.aar/b051a611a8087076fd36293fa0413764/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-commons-0.10.7.aar/b4bd9de8a1752fca2731760ca8429fc3/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-commons-0.10.7.aar/b4bd9de8a1752fca2731760ca8429fc3/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-support-v4-commons-0.10.7.aar/a294f7cd042521ee6422ee6c7932c484/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-support-v4-commons-0.10.7.aar/a294f7cd042521ee6422ee6c7932c484/AndroidManifest.xml:11:5-20
+MERGED from [com.applandeo:material-calendar-view:1.5.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/material-calendar-view-1.5.1.aar/210f6105c718b5de8aa0ee543326e579/AndroidManifest.xml:11:5-15:19
+MERGED from [com.applandeo:material-calendar-view:1.5.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/material-calendar-view-1.5.1.aar/210f6105c718b5de8aa0ee543326e579/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/385452be3cde4b979ce291ac5fd128d4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/385452be3cde4b979ce291ac5fd128d4/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7a98190ca2bdaaae15206aa997002373/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7a98190ca2bdaaae15206aa997002373/AndroidManifest.xml:22:5-28:19
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.7.aar/bb0bce04f67f4ff3e141cc87e2069532/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.7.aar/bb0bce04f67f4ff3e141cc87e2069532/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sdk27-coroutines-0.10.7.aar/b6adb1756b9928f73dc10519406f6b54/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sdk27-coroutines-0.10.7.aar/b6adb1756b9928f73dc10519406f6b54/AndroidManifest.xml:11:5-20
+MERGED from [com.liulishuo.filedownloader:library:1.7.6] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/library-1.7.6.aar/99bd66eb686ef8fa015827a7e606706a/AndroidManifest.xml:11:5-16:19
+MERGED from [com.liulishuo.filedownloader:library:1.7.6] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/library-1.7.6.aar/99bd66eb686ef8fa015827a7e606706a/AndroidManifest.xml:11:5-16:19
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.7.aar/80f93c549600e0f12db4674ed580b58f/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.7.aar/80f93c549600e0f12db4674ed580b58f/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sdk27-0.10.7.aar/a23a33f5524d96810d7aad0dae72605f/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sdk27-0.10.7.aar/a23a33f5524d96810d7aad0dae72605f/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/fd5205925f8d01259e46e2d0e74c6a41/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/fd5205925f8d01259e46e2d0e74c6a41/AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:13:9-41
+	android:hardwareAccelerated
+		ADDED from [:xfermodedemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/xfermodedemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:18-53
+	android:roundIcon
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:10:9-42
+activity#com.example.zhangtianzhu.kotlindemo.ui.DatePickerActivity
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:17:9-20:58
+	android:screenOrientation
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:20:13-56
+	android:launchMode
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:19:13-44
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:18:13-50
+activity#com.example.zhangtianzhu.kotlindemo.ui.JumpViewSlef
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:21:9-30:20
+	android:screenOrientation
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:24:13-49
+	android:launchMode
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:23:13-44
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:22:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:28:27-74
+activity#com.example.zhangtianzhu.kotlindemo.ui.RecyclerViewActivity
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:31:9-34:52
+	android:screenOrientation
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:34:13-49
+	android:launchMode
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:32:13-52
+activity#com.example.zhangtianzhu.kotlindemo.ui.ListViewActivity
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:35:9-57
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:35:19-54
+activity#com.example.zhangtianzhu.kotlindemo.ui.MainActivity
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:36:9-53
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:36:19-50
+activity#com.example.zhangtianzhu.kotlindemo.ui.TestActivity
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:37:9-53
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:37:19-50
+activity#com.example.zhangtianzhu.kotlindemo.students.activity.ReadingActivity
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:38:9-71
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:38:19-68
+activity#com.example.zhangtianzhu.kotlindemo.students.activity.ReadingDetailActivity
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:39:9-77
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:39:19-74
+activity#com.example.zhangtianzhu.kotlindemo.students.activity.IntensiveReadActivity
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:40:9-77
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:40:19-74
+activity#com.example.zhangtianzhu.kotlindemo.ui.AnnotationActivity
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:41:9-59
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:41:19-56
+activity#com.example.zhangtianzhu.kotlindemo.ui.AnimatorActivity
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:42:9-45:47
+	android:launchMode
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:45:13-44
+	android:configChanges
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:44:13-74
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:43:13-48
+activity#com.example.zhangtianzhu.kotlindemo.ui.AnimatorActivityTwo
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:46:9-48:47
+	android:launchMode
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:47:13-51
+activity#com.example.zhangtianzhu.kotlindemo.ui.CalendarActivity
+ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:49:9-57
+	android:name
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml:49:19-54
+uses-sdk
+INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+MERGED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:xfermodedemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/xfermodedemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:xfermodedemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/xfermodedemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:animatorchange] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/animatorchange/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:animatorchange] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/animatorchange/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:base] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:base] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/75681e654bde102039bf02aef292724a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/75681e654bde102039bf02aef292724a/AndroidManifest.xml:20:5-44
+MERGED from [com.alibaba:arouter-api:1.3.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/arouter-api-1.3.1.aar/bfda254be4bd8f1d2303bfdfee6713df/AndroidManifest.xml:6:5-8:41
+MERGED from [com.alibaba:arouter-api:1.3.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/arouter-api-1.3.1.aar/bfda254be4bd8f1d2303bfdfee6713df/AndroidManifest.xml:6:5-8:41
+MERGED from [org.jetbrains.anko:anko:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-0.10.7.aar/934d8bf63e7c7313af31bfec391a1f03/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-0.10.7.aar/934d8bf63e7c7313af31bfec391a1f03/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-0.10.7.aar/7b906c7887ddf7c8ddde57e4d4d1be6a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-0.10.7.aar/7b906c7887ddf7c8ddde57e4d4d1be6a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-support-v4-0.10.7.aar/e1a95ca3321ebc6c478f6589c767d583/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-support-v4-0.10.7.aar/e1a95ca3321ebc6c478f6589c767d583/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-coroutines-0.10.7.aar/b051a611a8087076fd36293fa0413764/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-coroutines-0.10.7.aar/b051a611a8087076fd36293fa0413764/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-commons-0.10.7.aar/b4bd9de8a1752fca2731760ca8429fc3/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-appcompat-v7-commons-0.10.7.aar/b4bd9de8a1752fca2731760ca8429fc3/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-support-v4-commons-0.10.7.aar/a294f7cd042521ee6422ee6c7932c484/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-support-v4-commons-0.10.7.aar/a294f7cd042521ee6422ee6c7932c484/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/supportV4-base-0.10.7.aar/df5c49ff36a2f844018319e3adbef7db/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/supportV4-base-0.10.7.aar/df5c49ff36a2f844018319e3adbef7db/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2124592739f3944c699619d217cf8824/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2124592739f3944c699619d217cf8824/AndroidManifest.xml:20:5-44
+MERGED from [com.applandeo:material-calendar-view:1.5.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/material-calendar-view-1.5.1.aar/210f6105c718b5de8aa0ee543326e579/AndroidManifest.xml:7:5-9:41
+MERGED from [com.applandeo:material-calendar-view:1.5.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/material-calendar-view-1.5.1.aar/210f6105c718b5de8aa0ee543326e579/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/appcompatV7-base-0.10.7.aar/1677c3864f85e47379ea1756832c3d6e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/appcompatV7-base-0.10.7.aar/1677c3864f85e47379ea1756832c3d6e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2ad5873f3b43a3d70bed178d2f12cdc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2ad5873f3b43a3d70bed178d2f12cdc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/c097be8906608577b61e512beb737b2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/c097be8906608577b61e512beb737b2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/385452be3cde4b979ce291ac5fd128d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/385452be3cde4b979ce291ac5fd128d4/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.persistence.room:rxjava2:1.1.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/rxjava2-1.1.0.aar/072ae522cb2d11789fb118f7cdec7c45/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:rxjava2:1.1.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/rxjava2-1.1.0.aar/072ae522cb2d11789fb118f7cdec7c45/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/59ccca0acc8d59fc30167c378f58ad0a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/59ccca0acc8d59fc30167c378f58ad0a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.paging:runtime:1.0.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e6eeea7793bf392025c368cc2f94f7d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.paging:runtime:1.0.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e6eeea7793bf392025c368cc2f94f7d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.paging:rxjava2:1.0.0-rc1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0-rc1.aar/19ccfe271096ffb6946de57a354a3780/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.paging:rxjava2:1.0.0-rc1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0-rc1.aar/19ccfe271096ffb6946de57a354a3780/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7a98190ca2bdaaae15206aa997002373/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7a98190ca2bdaaae15206aa997002373/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.7.aar/bb0bce04f67f4ff3e141cc87e2069532/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-coroutines-0.10.7.aar/bb0bce04f67f4ff3e141cc87e2069532/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sdk27-coroutines-0.10.7.aar/b6adb1756b9928f73dc10519406f6b54/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27-coroutines:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sdk27-coroutines-0.10.7.aar/b6adb1756b9928f73dc10519406f6b54/AndroidManifest.xml:7:5-9:41
+MERGED from [com.liulishuo.filedownloader:library:1.7.6] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/library-1.7.6.aar/99bd66eb686ef8fa015827a7e606706a/AndroidManifest.xml:6:5-43
+MERGED from [com.liulishuo.filedownloader:library:1.7.6] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/library-1.7.6.aar/99bd66eb686ef8fa015827a7e606706a/AndroidManifest.xml:6:5-43
+MERGED from [cn.jzvd:jiaozivideoplayer:6.4.3] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/jiaozivideoplayer-6.4.3.aar/baaca33a5468176fcf5d67c8151f3d0f/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jzvd:jiaozivideoplayer:6.4.3] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/jiaozivideoplayer-6.4.3.aar/baaca33a5468176fcf5d67c8151f3d0f/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.7.aar/80f93c549600e0f12db4674ed580b58f/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.7.aar/80f93c549600e0f12db4674ed580b58f/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sdk27-0.10.7.aar/a23a33f5524d96810d7aad0dae72605f/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk27:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-sdk27-0.10.7.aar/a23a33f5524d96810d7aad0dae72605f/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/fd5205925f8d01259e46e2d0e74c6a41/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/fd5205925f8d01259e46e2d0e74c6a41/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/sqlite-base-0.10.7.aar/6be5446b588925936cd69ce174acd41a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/sqlite-base-0.10.7.aar/6be5446b588925936cd69ce174acd41a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/platform-base-0.10.7.aar/1607befbeedd5bc1ea18ba2baeddf26d/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:platform-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/platform-base-0.10.7.aar/1607befbeedd5bc1ea18ba2baeddf26d/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.7.aar/1bbed8f03c75b40b92a908fc79d506ae/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.7] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.7.aar/1bbed8f03c75b40b92a908fc79d506ae/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:customtabs:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/41a07827e256f94a64435e812fb7d720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/41a07827e256f94a64435e812fb7d720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/979f1b3b4c567fac9b8613be5d503e73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/979f1b3b4c567fac9b8613be5d503e73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/651b20e83a150a3cfa46de9b12a84757/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/651b20e83a150a3cfa46de9b12a84757/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5e5c42cc74f6cd96394377494fcfb1a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5e5c42cc74f6cd96394377494fcfb1a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/162fcc11f2957b8e9561fb49758794aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/162fcc11f2957b8e9561fb49758794aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b48b5696ee6bc0134a67dbd244b405c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b48b5696ee6bc0134a67dbd244b405c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1e09f96eb3c6227906b0e0dc22c88594/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1e09f96eb3c6227906b0e0dc22c88594/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/2da39398a1d8cb8e0ce2393425229986/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/2da39398a1d8cb8e0ce2393425229986/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9ea3a2a9e3ffb0a7846c2eb33dd05718/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9ea3a2a9e3ffb0a7846c2eb33dd05718/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8dc12ad634bab5a48fe6a23df4e63cfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8dc12ad634bab5a48fe6a23df4e63cfd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/2b34e1b7d125219a9116f91d6c4936a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/2b34e1b7d125219a9116f91d6c4936a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/4a1296e5fd66e293f0c913d83a5576f7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.0] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/4a1296e5fd66e293f0c913d83a5576f7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e9c62b3ea09b213282408f8cd53a05c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e9c62b3ea09b213282408f8cd53a05c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c7cbdf634281c05853fa4009d41435f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c7cbdf634281c05853fa4009d41435f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7a6f40e1aedd77a4051fca0341911dc3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7a6f40e1aedd77a4051fca0341911dc3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e1756bf367665e36c84b51f30bb0f89e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e1756bf367665e36c84b51f30bb0f89e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f03b2023c7b4af6937c20ca5ca7eac18/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f03b2023c7b4af6937c20ca5ca7eac18/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/app/src/main/AndroidManifest.xml
+activity#com.wanandroid.zhangtianzhu.viewslefdemo.activity.RunningLinearGradientActivity
+ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-116
+	android:name
+		ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:19-113
+activity#com.wanandroid.zhangtianzhu.viewslefdemo.activity.GradientActivity
+ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-103
+	android:name
+		ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:19-100
+activity#com.wanandroid.zhangtianzhu.viewslefdemo.activity.BitmapShaderActivity
+ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:9-107
+	android:name
+		ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:19-104
+activity#com.wanandroid.zhangtianzhu.viewslefdemo.activity.TileModelActivity
+ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-104
+	android:name
+		ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:19-101
+activity#com.wanandroid.zhangtianzhu.viewslefdemo.activity.PaintRadarActivity
+ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:9-105
+	android:name
+		ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:19-102
+activity#com.wanandroid.zhangtianzhu.viewslefdemo.activity.ClientActivity
+ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:9-101
+	android:name
+		ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:19-98
+activity#com.wanandroid.zhangtianzhu.viewslefdemo.activity.ViewSelfActivity
+ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:9-21:52
+	android:screenOrientation
+		ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:13-49
+	android:launchMode
+		ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from [:viewslefdemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/viewslefdemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:13-94
+activity#com.wanandroid.zhangtianzhu.xfermodedemo.activity.HeartBeatActivity
+ADDED from [:xfermodedemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/xfermodedemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-104
+	android:name
+		ADDED from [:xfermodedemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/xfermodedemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:19-101
+activity#com.wanandroid.zhangtianzhu.xfermodedemo.activity.ScratchActivity
+ADDED from [:xfermodedemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/xfermodedemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-102
+	android:name
+		ADDED from [:xfermodedemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/xfermodedemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:19-99
+activity#com.wanandroid.zhangtianzhu.xfermodedemo.activity.GoogleXferActivity
+ADDED from [:xfermodedemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/xfermodedemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:9-105
+	android:name
+		ADDED from [:xfermodedemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/xfermodedemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:19-102
+activity#com.wanandroid.zhangtianzhu.xfermodedemo.activity.XferModelActivity
+ADDED from [:xfermodedemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/xfermodedemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-104
+	android:name
+		ADDED from [:xfermodedemo] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/xfermodedemo/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:19-101
+activity#com.wanandroid.zhangtianzhu.animatorchange.activity.DialActivity
+ADDED from [:animatorchange] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/animatorchange/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-101
+	android:name
+		ADDED from [:animatorchange] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/animatorchange/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:19-98
+activity#com.wanandroid.zhangtianzhu.animatorchange.AnimatorModelActivity
+ADDED from [:animatorchange] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/animatorchange/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-101
+	android:name
+		ADDED from [:animatorchange] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/animatorchange/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:19-98
+activity#com.wanandroid.zhangtianzhu.animatorchange.activity.ShoppingActivity
+ADDED from [:animatorchange] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/animatorchange/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:9-105
+	android:name
+		ADDED from [:animatorchange] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/animatorchange/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:19-102
+activity#com.wanandroid.zhangtianzhu.base.BaseActivity
+ADDED from [:base] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-82
+	android:name
+		ADDED from [:base] /Users/zhangtianzhu/AndroidStudioProjects/KotlinDemo/base/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:19-79
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7a98190ca2bdaaae15206aa997002373/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7a98190ca2bdaaae15206aa997002373/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7a98190ca2bdaaae15206aa997002373/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7a98190ca2bdaaae15206aa997002373/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/7a98190ca2bdaaae15206aa997002373/AndroidManifest.xml:24:13-83
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.liulishuo.filedownloader:library:1.7.6] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/library-1.7.6.aar/99bd66eb686ef8fa015827a7e606706a/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [com.liulishuo.filedownloader:library:1.7.6] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/library-1.7.6.aar/99bd66eb686ef8fa015827a7e606706a/AndroidManifest.xml:9:22-74
+service#com.liulishuo.filedownloader.services.FileDownloadService$SharedMainProcessService
+ADDED from [com.liulishuo.filedownloader:library:1.7.6] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/library-1.7.6.aar/99bd66eb686ef8fa015827a7e606706a/AndroidManifest.xml:12:9-118
+	android:name
+		ADDED from [com.liulishuo.filedownloader:library:1.7.6] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/library-1.7.6.aar/99bd66eb686ef8fa015827a7e606706a/AndroidManifest.xml:12:18-115
+service#com.liulishuo.filedownloader.services.FileDownloadService$SeparateProcessService
+ADDED from [com.liulishuo.filedownloader:library:1.7.6] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/library-1.7.6.aar/99bd66eb686ef8fa015827a7e606706a/AndroidManifest.xml:13:9-15:49
+	android:process
+		ADDED from [com.liulishuo.filedownloader:library:1.7.6] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/library-1.7.6.aar/99bd66eb686ef8fa015827a7e606706a/AndroidManifest.xml:15:13-46
+	android:name
+		ADDED from [com.liulishuo.filedownloader:library:1.7.6] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/library-1.7.6.aar/99bd66eb686ef8fa015827a7e606706a/AndroidManifest.xml:14:13-108
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [cn.jzvd:jiaozivideoplayer:6.4.3] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/jiaozivideoplayer-6.4.3.aar/baaca33a5468176fcf5d67c8151f3d0f/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [cn.jzvd:jiaozivideoplayer:6.4.3] /Users/zhangtianzhu/.gradle/caches/transforms-1/files-1.1/jiaozivideoplayer-6.4.3.aar/baaca33a5468176fcf5d67c8151f3d0f/AndroidManifest.xml:11:22-76

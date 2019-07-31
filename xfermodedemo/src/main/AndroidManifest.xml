@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wanandroid.zhangtianzhu.xfermodedemo">
+
+    <application android:hardwareAccelerated="false">
+        <activity android:name=".activity.HeartBeatActivity"></activity>
+        <activity android:name=".activity.ScratchActivity" />
+        <activity android:name=".activity.GoogleXferActivity" />
+        <activity android:name=".activity.XferModelActivity" />
+    </application>
+
+</manifest>

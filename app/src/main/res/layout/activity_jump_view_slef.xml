@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.JumpViewSlef">
+ <Button
+     style="@style/textview_button"
+     android:text="跳转到FlowLayout界面"
+     android:id="@+id/btn_flow"/>
+
+    <Button
+        android:id="@+id/btn_shader"
+        style="@style/textview_button"
+        android:text="paint使用（gradient、shader）" />
+    <Button
+        style="@style/textview_button"
+        android:id="@+id/btn_xfermodel"
+        android:text="XferModel使用案例"/>
+    <Button
+        style="@style/textview_button"
+        android:id="@+id/btn_animation"
+        android:text="动画案例"/>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KotlinDemo.iml" filepath="$PROJECT_DIR$/KotlinDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animatorchange/animatorchange.iml" filepath="$PROJECT_DIR$/animatorchange/animatorchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewslefdemo/viewslefdemo.iml" filepath="$PROJECT_DIR$/viewslefdemo/viewslefdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xfermodedemo/xfermodedemo.iml" filepath="$PROJECT_DIR$/xfermodedemo/xfermodedemo.iml" />
+    </modules>
+  </component>
+</project>

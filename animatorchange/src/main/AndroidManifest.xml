@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wanandroid.zhangtianzhu.animatorchange">
+
+    <application>
+        <activity android:name=".activity.DialActivity"></activity>
+        <activity android:name=".AnimatorModelActivity" />
+        <activity android:name=".activity.ShoppingActivity" />
+    </application>
+
+</manifest>

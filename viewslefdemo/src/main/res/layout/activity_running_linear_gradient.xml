@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/Black"
+    tools:context=".activity.RunningLinearGradientActivity">
+    <com.wanandroid.zhangtianzhu.viewslefdemo.widget.RunningLinearGradientView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="@dimen/sp_20"
+        android:textColor="@color/White"
+        android:text="Yif is very handsome Do you love he When you love he You will be very happy 2333333"/>
+</LinearLayout>

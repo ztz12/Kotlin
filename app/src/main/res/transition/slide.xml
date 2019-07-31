@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slide xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:interpolator/linear"
+    android:slideEdge = "start">
+    <!--slidEdge 表示开始滑动的起始位置 end 为当前界面往右边滑动，start为界面往左边滑动-->
+
+</slide>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.XferModelActivity">
+
+    <Button
+        style="@style/textview_button"
+        android:text="Google的XferModel实例"
+        android:textAllCaps="false"
+        android:id="@+id/btn_google"/>
+    <Button
+        style="@style/textview_button"
+        android:text="刮刮卡"
+        android:textAllCaps="false"
+        android:id="@+id/btn_scratch"/>
+    <Button
+        style="@style/textview_button"
+        android:text="心跳"
+        android:textAllCaps="false"
+        android:id="@+id/btn_heartBeat"/>
+</LinearLayout>

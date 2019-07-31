@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zhangtianzhu/kotlindemo/ui/TestActivity.kt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zhangtianzhu/kotlindemo/widget/DragSortListView/DragSortController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zhangtianzhu/kotlindemo/widget/DragSortListView/DragSortCursorAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zhangtianzhu/kotlindemo/widget/DragSortListView/DragSortItemView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zhangtianzhu/kotlindemo/widget/DragSortListView/DragSortItemViewCheckable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zhangtianzhu/kotlindemo/widget/DragSortListView/DragSortListView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zhangtianzhu/kotlindemo/widget/DragSortListView/ResourceDragSortCursorAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zhangtianzhu/kotlindemo/widget/DragSortListView/SimpleDragSortCursorAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/zhangtianzhu/kotlindemo/widget/DragSortListView/SimpleFloatViewManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_divide_blue.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/date_time.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/date_time.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/dslv_attrs.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/ids.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

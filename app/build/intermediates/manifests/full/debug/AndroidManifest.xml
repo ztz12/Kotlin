@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.zhangtianzhu.kotlindemo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!-- To allow starting foreground services on Android P+ - https://developer.android.com/preview/behavior-changes#fg-svc -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.example.zhangtianzhu.kotlindemo.app.MyApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.zhangtianzhu.kotlindemo.ui.DatePickerActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="sensorLandscape" />
+        <activity
+            android:name="com.example.zhangtianzhu.kotlindemo.ui.JumpViewSlef"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.zhangtianzhu.kotlindemo.ui.RecyclerViewActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.example.zhangtianzhu.kotlindemo.ui.ListViewActivity" />
+        <activity android:name="com.example.zhangtianzhu.kotlindemo.ui.MainActivity" />
+        <activity android:name="com.example.zhangtianzhu.kotlindemo.ui.TestActivity" />
+        <activity android:name="com.example.zhangtianzhu.kotlindemo.students.activity.ReadingActivity" />
+        <activity android:name="com.example.zhangtianzhu.kotlindemo.students.activity.ReadingDetailActivity" />
+        <activity android:name="com.example.zhangtianzhu.kotlindemo.students.activity.IntensiveReadActivity" />
+        <activity android:name="com.example.zhangtianzhu.kotlindemo.ui.AnnotationActivity" />
+        <activity
+            android:name="com.example.zhangtianzhu.kotlindemo.ui.AnimatorActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="com.example.zhangtianzhu.kotlindemo.ui.AnimatorActivityTwo"
+            android:launchMode="singleTask" />
+        <activity android:name="com.example.zhangtianzhu.kotlindemo.ui.CalendarActivity" />
+        <activity android:name="com.wanandroid.zhangtianzhu.viewslefdemo.activity.RunningLinearGradientActivity" />
+        <activity android:name="com.wanandroid.zhangtianzhu.viewslefdemo.activity.GradientActivity" />
+        <activity android:name="com.wanandroid.zhangtianzhu.viewslefdemo.activity.BitmapShaderActivity" />
+        <activity android:name="com.wanandroid.zhangtianzhu.viewslefdemo.activity.TileModelActivity" />
+        <activity android:name="com.wanandroid.zhangtianzhu.viewslefdemo.activity.PaintRadarActivity" />
+        <activity android:name="com.wanandroid.zhangtianzhu.viewslefdemo.activity.ClientActivity" />
+        <activity
+            android:name="com.wanandroid.zhangtianzhu.viewslefdemo.activity.ViewSelfActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.wanandroid.zhangtianzhu.xfermodedemo.activity.HeartBeatActivity" />
+        <activity android:name="com.wanandroid.zhangtianzhu.xfermodedemo.activity.ScratchActivity" />
+        <activity android:name="com.wanandroid.zhangtianzhu.xfermodedemo.activity.GoogleXferActivity" />
+        <activity android:name="com.wanandroid.zhangtianzhu.xfermodedemo.activity.XferModelActivity" />
+        <activity android:name="com.wanandroid.zhangtianzhu.animatorchange.activity.DialActivity" />
+        <activity android:name="com.wanandroid.zhangtianzhu.animatorchange.AnimatorModelActivity" />
+        <activity android:name="com.wanandroid.zhangtianzhu.animatorchange.activity.ShoppingActivity" />
+        <activity android:name="com.wanandroid.zhangtianzhu.base.BaseActivity" />
+
+        <provider
+            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.example.zhangtianzhu.kotlindemo.lifecycle-trojan"
+            android:exported="false"
+            android:multiprocess="true" />
+
+        <service android:name="com.liulishuo.filedownloader.services.FileDownloadService$SharedMainProcessService" />
+        <service
+            android:name="com.liulishuo.filedownloader.services.FileDownloadService$SeparateProcessService"
+            android:process=":filedownloader" />
+    </application>
+
+</manifest>

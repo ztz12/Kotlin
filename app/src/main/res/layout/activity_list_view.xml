@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:dslv="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.ListViewActivity">
+
+   <com.example.zhangtianzhu.kotlindemo.widget.DragSortListView.DragSortListView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:layout_above="@id/addNew"
+       android:divider="#00ffffff"
+       android:dividerHeight="@dimen/dp_20"
+       dslv:click_remove_id="@id/click_remove"
+       dslv:collapsed_height="1px"
+       dslv:drag_enabled="true"
+       dslv:drag_handle_id="@id/drag_handle"
+       dslv:drag_scroll_start="0.33"
+       dslv:drag_start_mode="onDown"
+       dslv:float_alpha="0.6"
+       dslv:remove_enabled="true"
+       dslv:remove_mode="clickRemove"
+       dslv:slide_shuffle_speed="0.3"
+       android:scrollbars="none"
+       android:id="@+id/lv"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:textSize="@dimen/sp_20"
+        android:id="@+id/addNew"
+        android:text="添加新内容"/>
+</RelativeLayout>

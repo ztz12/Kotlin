@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="197dp"
+    android:layout_height="230dp"
+    android:background="@drawable/date_picker_drawable"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:background="@drawable/date_picker_title"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/dp_7"
+            android:src="@mipmap/date_time"
+            android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/tv_date_picker"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_gravity="center"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="开始时间"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+    </LinearLayout>
+
+    <DatePicker
+        android:id="@+id/date_picker"
+        style="@android:style/Widget.DatePicker"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/Grey400"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/tv_cancel"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:textColor="@color/Green"
+            android:text="取消" />
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_divide_blue"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/tv_sure"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:textColor="@color/Green"
+            android:layout_weight="1"
+            android:text="确定" />
+    </LinearLayout>
+</LinearLayout>

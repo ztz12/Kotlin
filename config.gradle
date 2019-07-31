@@ -1,0 +1,53 @@
+ext {
+    build_version = [
+            compileSdkVersion: 27,
+            minSdkVersion    : 19,
+            targetSdkVersion : 27,
+            versionCode      : 1,
+            versionName      : "1.0"
+    ]
+
+    version = [
+            suppport  : '27.1.1',
+            junit     : '4.12',
+            constraint: '1.1.3',
+            runner    : '1.0.2',
+            expresso  : '3.0.2',
+            room      : '1.1.0',
+            paging    : '1.0.0',
+            lfecycle  : '1.1.1'
+    ]
+
+    supportDeps = [
+            "supportv4"        : [group: 'com.android.support', name: 'support-v4', version: version.suppport],
+            "appcompatv7"      : [group: 'com.android.support', name: 'appcompat-v7', version: version.suppport],
+            "cardview"         : [group: 'com.android.support', name: 'cardview-v7', version: version.suppport],
+            "design"           : [group: 'com.android.support', name: 'design', version: version.suppport],
+            "constraint_layout": [group: 'com.android.support.constraint', name: 'constraint-layout', version: version.constraint]
+    ]
+
+    testDeps = [
+            "junit"        : [group: 'junit', name: 'junit', version: version.junit],
+            "runner"       : [group: 'com.android.support.test', name: 'runner', version: version.runner],
+            "expresso_core": [group: 'com.android.support.test.espresso', name: 'espresso-core', version: version.expresso]
+    ]
+
+    commonDeps = [
+            "room_runntime"         : [group: 'android.arch.persistence.room', name: 'runtime', version: version.room],
+            "room_rxjava2"          : [group: 'android.arch.persistence.room', name: 'rxjava2', version: version.room],
+            "paging_runntim"        : [group: 'android.arch.paging', name: 'runtime', version: version.paging],
+            "paging_rxjava2"        : [group: 'android.arch.paging', name: 'rxjava2', version: '1.0.0-rc1'],
+            "lifecycle"             : [group: 'android.arch.lifecycle', name: 'extensions', version: version.lfecycle],
+            "coroutines"            : [group: 'org.jetbrains.kotlinx', name: 'kotlinx-coroutines-core', version: '1.1.0-alpha'],
+            "anko"                  : [group: 'org.jetbrains.anko', name: 'anko', version: '0.10.7'],
+            "material-calender-view": [group: 'com.applandeo', name: 'material-calendar-view', version: '1.5.1'],
+            "filedownoader"         : [group: 'com.liulishuo.filedownloader',name: 'library',version: '1.7.6']
+    ]
+
+    commonCompiler = [
+            "room_compiler": [group: 'android.arch.persistence.room', name: 'compiler', version: version.room]
+    ]
+
+    supportLibs = supportDeps.values()
+    commonLibs = commonDeps.values()
+}

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="#0fa2ff"
+        android:gravity="center"
+        android:id="@+id/ll_top"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/my_verson_select_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/selector_button"
+            android:drawableRight="@drawable/iv_pushdown"
+            android:gravity="center"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:text="9A-U01"
+            android:textColor="@color/White"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+<LinearLayout
+    android:layout_marginTop="@dimen/dp_50"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:id="@+id/ll">
+    <TextView
+        android:layout_width="@dimen/dp_100"
+        android:layout_height="@dimen/dp_30"
+        android:text="@string/number"
+        android:textSize="@dimen/sp_16"
+        android:gravity="center"/>
+    <View
+        android:layout_width="1dp"
+        android:layout_height="@dimen/dp_30"
+        android:background="@color/Grey500" />
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="@dimen/dp_30"
+        android:layout_weight="3"
+        android:textSize="@dimen/sp_16"
+        android:gravity="center"
+        android:text="@string/essay"/>
+
+</LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_1"
+        android:background="@color/Grey500"
+        android:layout_below="@id/ll"/>
+    <ImageView
+        android:layout_width="@dimen/dp_30"
+        android:layout_height="@dimen/dp_30"
+        android:layout_below="@id/ll"
+        android:id="@+id/iv"
+        android:src="@mipmap/arrow_up"
+        android:visibility="gone"/>
+    <TextView
+        android:layout_width="@dimen/dp_100"
+        android:layout_below="@id/ll"
+        android:padding="@dimen/dp_5"
+        android:text="1"
+        android:gravity="center"
+        android:layout_toEndOf="@id/iv"
+        android:textSize="@dimen/sp_16"
+        android:id="@+id/tv_number"
+        android:layout_height="@dimen/dp_30" />
+    <View
+        android:layout_width="1dp"
+        android:layout_height="@dimen/dp_30"
+        android:layout_toEndOf="@id/tv_number"
+        android:layout_below="@id/ll"
+        android:background="@color/Grey500" />
+
+    <TextView
+        android:id="@+id/tv_detail"
+        android:layout_width="288dp"
+        android:layout_height="@dimen/dp_30"
+        android:layout_below="@id/ll"
+        android:layout_marginStart="-4dp"
+        android:layout_toEndOf="@id/tv_number"
+        android:gravity="center"
+        android:padding="@dimen/dp_5"
+        android:text="Raynor Winn and her husband" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_1"
+        android:layout_below="@id/tv_number"
+        android:background="@color/Grey500"
+        android:id="@+id/divide"/>
+    <LinearLayout
+        android:padding="@dimen/dp_10"
+        android:id="@+id/ll_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Grey400"
+        android:layout_below="@id/divide"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/sp_14"
+                android:text="试题类型：完型填空"/>
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/sp_14"
+                android:text="练习次数：4次"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="@dimen/dp_10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/sp_14"
+                android:text="话题：生活启示"/>
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/sp_14"
+                android:text="知识点数：10个"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="@dimen/dp_10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/sp_14"
+                android:text="掌握情况：优"/>
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/sp_14"
+                android:text="阅读时间：10min"/>
+
+        </LinearLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_10">
+            <Button
+                android:layout_width="@dimen/dp_60"
+                android:layout_height="@dimen/dp_30"
+                android:background="@drawable/bg_conner_bottom_red"
+                android:text="更多详情"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="140dp"
+                android:textColor="@color/White" />
+            <Button
+                android:layout_width="@dimen/dp_60"
+                android:layout_height="@dimen/dp_30"
+                android:background="@drawable/bg_conner_bottom_red"
+                android:text="常规训练"
+                android:layout_marginRight="@dimen/dp_70"
+                android:layout_alignParentRight="true"
+                android:textColor="@color/White"
+                />
+            <Button
+                android:layout_width="@dimen/dp_60"
+                android:layout_height="@dimen/dp_30"
+                android:background="@drawable/bg_conner_bottom_red"
+                android:text="精读训练"
+                android:id="@+id/practice_detail"
+                android:textColor="@color/White"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+
+    </LinearLayout>
+    <!--<View-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="@dimen/dp_1"-->
+        <!--android:background="@color/Grey500"-->
+        <!--android:layout_below="@id/ll_detail"/>-->
+    <!--<ImageView-->
+        <!--android:layout_width="@dimen/dp_30"-->
+        <!--android:layout_height="@dimen/dp_30"-->
+        <!--android:layout_below="@id/ll_detail"-->
+        <!--android:id="@+id/iv_two"-->
+        <!--android:visibility="gone"-->
+        <!--android:src="@mipmap/arrow_up_grey"/>-->
+    <!--<TextView-->
+        <!--android:layout_width="@dimen/dp_100"-->
+        <!--android:layout_below="@id/ll_detail"-->
+        <!--android:padding="@dimen/dp_5"-->
+        <!--android:text="2"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_toEndOf="@id/iv_two"-->
+        <!--android:textSize="@dimen/sp_16"-->
+        <!--android:layout_height="@dimen/dp_30" />-->
+    <!--<View-->
+        <!--android:layout_width="1dp"-->
+        <!--android:layout_height="@dimen/dp_30"-->
+        <!--android:layout_toEndOf="@id/tv_number"-->
+        <!--android:layout_below="@id/ll_detail"-->
+        <!--android:background="@color/Grey500" />-->
+
+    <!--<TextView-->
+        <!--android:layout_width="288dp"-->
+        <!--android:layout_height="@dimen/dp_30"-->
+        <!--android:layout_below="@id/ll_detail"-->
+        <!--android:layout_marginStart="-4dp"-->
+        <!--android:layout_toEndOf="@id/tv_number"-->
+        <!--android:gravity="center"-->
+        <!--android:padding="@dimen/dp_5"-->
+        <!--android:text="By the time" />-->
+    <!--<View-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="@dimen/dp_1"-->
+        <!--android:layout_below="@id/iv_two"-->
+        <!--android:background="@color/Grey500" />-->
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#0fa2ff"
+        android:text="本单元数据分析"
+        android:textColor="@color/White"/>
+
+</RelativeLayout>
